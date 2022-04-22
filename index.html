@@ -11,11 +11,42 @@
     <meta name="author" content="Philipe Ferreira">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="./img/icon.png">
+    <script src="https://code.jquery.com/jquery-1.12.0.js" ></script>
 </head>
 
 <body>
+    <header class="cabecalho">
+        <a href="index.html">
+            <h1 class="logo">NodeProp - Especializada em Soluções Digitais</h1>
+        </a>
+        <buttun class="btn-menu">
+            <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+        </buttun>
+        <nav class="menu">
+            <a class="btn-close">x</a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Clientes</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Quem somos</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+
+
+    </header>
+    
+
+    <script>
+        $(".btn-menu").click(function () {
+            $(".menu").show();
+        });
+
+        $(".btn-close").click(function(){
+            $(".menu").hide();
+        })
+    </script>
 
 </body>
 
