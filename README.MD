@@ -46,3 +46,7 @@ Para executar o projeto foi utilizado a extensão Live Server do vscode
 <h2>📹 Segue abaixo um video do projeto</h2>
 <br>
 
+
+https://user-images.githubusercontent.com/64853039/165123264-39b4ed98-4a08-44ca-a130-f4ba47c23d56.mp4
+
+
