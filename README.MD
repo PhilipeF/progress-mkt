@@ -49,4 +49,12 @@ Para executar o projeto foi utilizado a extensão Live Server do vscode
 
 https://user-images.githubusercontent.com/64853039/165123264-39b4ed98-4a08-44ca-a130-f4ba47c23d56.mp4
 
+## 📲 Contato
+
+Entre em contato comigo por e-mail ou pelo meu LinkedIn:
+
+<a href="mailto:philipsferreiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/philipe-ferreira-60696388/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+
 
