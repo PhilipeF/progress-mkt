@@ -235,9 +235,6 @@ img {
 
 /* RODAPÉ */
 .rodape {
-    width: 100%;
-    float: left;
-    padding: 3% 4%;
     text-align: center;
     background: linear-gradient(to right, #ce2e3c, #da6709);
 }
@@ -284,12 +281,12 @@ img {
 
     .servico:nth-child(2) {
         margin-right: 0;
-    } 
+    }
 
     .newsletter h2 {
         font-size: 2em;
     }
-    
+
     .newsletter h3 {
         font-size: 1.5em;
     }
@@ -340,11 +337,11 @@ img {
 
     .servico:nth-child(2) {
         margin-right: 2%;
-    } 
+    }
 
     .servico:nth-child(3) {
         margin-right: 0%;
-    } 
+    }
 
     .newsletter input {
         width: 60%;
@@ -395,4 +392,3 @@ img {
     }
 
 }
-
